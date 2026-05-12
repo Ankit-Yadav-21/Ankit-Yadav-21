@@ -1,14 +1,10 @@
 ### Hi there 👋, I am Ankit Yadav! 😊
-I’m a passionate full-stack developer with 4+ years of professional experience, currently working at Cleveratti Skills Pvt. Ltd. I specialize in the MERN stack and Devops, and I love exploring cutting-edge technologies—from cloud platforms to AI-powered tools.
-
-I enjoy building scalable and user-centric applications. At my current company, I’ve developed large systems like Assessment & Exam Platforms, which exposed me to a variety of tools, architectures, and cloud services. This journey helped me gain deep hands-on experience, especially in solving complex challenges like efficient file upload systems, real-time features, and optimizing backend performance.
+I’m a passionate Senior software engineer with ~5 years of professional experience, currently working at Coforge.
 
 I hold a Bachelor of Computer Science (B.Tech) degree.
 
-- 🌱 Currently exploring cloud technologies (AWS), DevOps, and React Native.
-- 💼 Building and maintaining RBAC Assessment & Exam applications.
+- 🌱 Currently exploring cloud technologies (AWS), and AI.
 - 📫 How to reach me: [ankityadav.codes@gmail.com](mailto:ankityadav.codes@gmail.com) or [linkedin](https://www.linkedin.com/in/ankit-yadav-codes/).
-- ❓ Ask me about the MERN Stack, Next.js and React Native.
 - 🏆 Goal: Be the person I needed when I was younger.
 
 # ⚡ Tech Stack
